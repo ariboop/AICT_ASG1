@@ -15,6 +15,7 @@ This project runs a Bayesian Network for train scheduling inference using Docker
 
 ## Run this
 pip install -r bayesnet_v3/requirements.txt
+pip install --upgrade pgmpy 
 
 ### Run inference (default):
 python bayesnet_v3/inference.py
