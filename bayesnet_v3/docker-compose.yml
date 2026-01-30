@@ -1,0 +1,15 @@
+services:
+  bayesnet:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bayesnet-app
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    # command: python inference.py
+    # Uncomment below to run sample.py instead
+    # command: python sample.py
+    # Uncomment below to run likelihood.py instead
+    command: python likelihood.py
