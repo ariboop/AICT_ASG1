@@ -8,8 +8,5 @@ services:
       - .:/app
     environment:
       - PYTHONUNBUFFERED=1
-    # command: python inference.py
-    # Uncomment below to run sample.py instead
-    # command: python sample.py
-    # Uncomment below to run likelihood.py instead
-    command: python likelihood.py
+    command: python bayesnet_v3/inference.py
+    #command: python bayesnet_v3/likelihood.py

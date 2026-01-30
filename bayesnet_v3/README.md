@@ -13,29 +13,12 @@ This project runs a Bayesian Network for train scheduling inference using Docker
 
 ## Running the Application
 
+## Run this
+pip install -r bayesnet_v3/requirements.txt
+
 ### Run inference (default):
-```bash
-docker-compose up
-```
-
-### Run sampling:
-Edit `docker-compose.yml` and uncomment the `command: python sample.py` line, then:
-```bash
-docker-compose up
-```
-
-### Rebuild after code changes:
-```bash
-docker-compose up --build
-```
-
-### Stop and remove containers:
-```bash
-docker-compose down
-```
+python bayesnet_v3/inference.py
 
 ## Output
 
-**Inference output** shows the probability distribution of rain, maintenance, and appointment given that the train is delayed.
-
-**Sampling output** uses Monte Carlo rejection sampling to estimate the appointment attendance distribution when the train is delayed.
+**Inference output** shows the probability of crowding risks.

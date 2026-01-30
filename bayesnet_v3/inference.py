@@ -4,33 +4,103 @@ from pgmpy.inference import VariableElimination
 # Create inference object
 inference = VariableElimination(model)
 
-# Calculate predictions given Crowding Risk is High
-result_demand = inference.query(variables=['Demand Proxy'], evidence={'Crowding Risk': 'High'})
-result_service = inference.query(variables=['Service Status'], evidence={'Crowding Risk': 'High'})
-result_network = inference.query(variables=['Network Mode'], evidence={'Crowding Risk': 'High'})
-result_day_type = inference.query(variables=['Day Type'], evidence={'Crowding Risk': 'High'})
-result_weather = inference.query(variables=['Weather'], evidence={'Crowding Risk': 'High'})
 
+#Inference 1
+result_crowd1 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'Heavy','Day Type':'Weekday','Service Status':'Disrupted'})
 # Print predictions for each node
-print("Given Crowding Risk is High:")
-print("\nDemand Proxy")
-for i, state in enumerate(result_demand.state_names['Demand Proxy']):
-    print(f"    {state}: {result_demand.values[i]:.4f}")
+print("Given a Very Rainy Weekday with Disrupted Service:")
+print("Crowd")
+for i, state in enumerate(result_crowd1.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd1.values[i]:.4f}")
 
-print("\nService Status")
-for i, state in enumerate(result_service.state_names['Service Status']):
-    print(f"    {state}: {result_service.values[i]:.4f}")
 
-print("\nNetwork Mode")
-for i, state in enumerate(result_network.state_names['Network Mode']):
-    print(f"    {state}: {result_network.values[i]:.4f}")
 
-print("\nDay Type")
-for i, state in enumerate(result_day_type.state_names['Day Type']):
-    print(f"    {state}: {result_day_type.values[i]:.4f}")
 
-print("\nWeather")
-for i, state in enumerate(result_weather.state_names['Weather']):
-    print(f"    {state}: {result_weather.values[i]:.4f}")
+print('\n\n')
 
-print("\nCrowding Risk: High (given)")
+
+
+# Inference 2
+result_crowd2 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'None','Day Type':'Weekend','Service Status':'Normal'})
+# Print predictions for each node
+print("Given a Clear Weekend with Normal Service:")
+print("Crowd")
+for i, state in enumerate(result_crowd2.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd2.values[i]:.4f}")
+
+
+
+
+print('\n\n')
+
+
+
+# Inference 3
+result_crowd3 = inference.query(variables=['Crowding Risk'], evidence={'Demand Proxy': 'High','Weather':'Heavy','Service Status':'Normal'})
+# Print predictions for each node
+print("Given a Rainy Day with Normal Service and High Demand:")
+print("Crowd")
+for i, state in enumerate(result_crowd3.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd3.values[i]:.4f}")
+
+
+
+
+print('\n\n')
+
+
+
+
+# Inference 4
+result_crowd4 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'None','Day Type':'Weekend','Service Status':'Normal','Network Mode':'Today'})
+# Print predictions for each node
+print("Given a Clear Weekend with Normal Service (Today Mode):")
+print("Crowd")
+for i, state in enumerate(result_crowd4.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd4.values[i]:.4f}")
+
+
+
+
+print('\n')
+
+
+
+# Inference 5
+result_crowd5 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'None','Day Type':'Weekend','Service Status':'Normal','Network Mode':'Today'})
+# Print predictions for each node
+print("Given a Clear Weekend with Normal Service (Future Mode):")
+print("Crowd")
+for i, state in enumerate(result_crowd5.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd5.values[i]:.4f}")
+
+
+
+
+
+print('\n\n')
+
+
+
+# Inference 6
+result_crowd6 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'Heavy','Day Type':'Weekday','Service Status':'Reduced','Network Mode':'Today'})
+# Print predictions for each node
+print("Given a Rainy Weekday with Disrupted Service (Today Mode):")
+print("Crowd")
+for i, state in enumerate(result_crowd6.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd6.values[i]:.4f}")
+
+
+
+
+
+print('\n')
+
+
+# Inference 7
+result_crowd7 = inference.query(variables=['Crowding Risk'], evidence={'Weather': 'Heavy','Day Type':'Weekday','Service Status':'Reduced','Network Mode':'Future'})
+# Print predictions for each node
+print("Given a Rainy Weekday with Disrupted Service (Future Mode):")
+print("Crowd")
+for i, state in enumerate(result_crowd7.state_names['Crowding Risk']):
+    print(f"    {state}: {result_crowd7.values[i]:.4f}")
