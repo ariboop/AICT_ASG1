@@ -32,8 +32,6 @@ cpd_weather = TabularCPD(
 )
 
 # Demand Proxy CPD (conditional on Day Type and Weather)
-# We need to create reasonable conditional probabilities based on your description
-# Let's assume that Weekdays and bad weather increase demand
 cpd_demand = TabularCPD(variable='Demand Proxy',variable_card=3,
     values=[
         # Order: Weather=None, Light, Moderate, Heavy for both Day Types
