@@ -1,0 +1,1238 @@
+[
+  {
+    "": 0,
+    "code": "NS1",
+    "station_name": "Jurong East",
+    "latitude": 1.333152816,
+    "longitude": 103.7422863
+  },
+  {
+    "": 1,
+    "code": "NS2",
+    "station_name": "Bukit Batok",
+    "latitude": 1.349033312,
+    "longitude": 103.7495665
+  },
+  {
+    "": 2,
+    "code": "NS3",
+    "station_name": "Bukit Gombak",
+    "latitude": 1.358611591,
+    "longitude": 103.7517909
+  },
+  {
+    "": 3,
+    "code": "NS4",
+    "station_name": "Choa Chu Kang",
+    "latitude": 1.385363165,
+    "longitude": 103.7443708
+  },
+  {
+    "": 4,
+    "code": "NS5",
+    "station_name": "Yew Tee",
+    "latitude": 1.397535069,
+    "longitude": 103.7474052
+  },
+  {
+    "": 5,
+    "code": "NS7",
+    "station_name": "Kranji",
+    "latitude": 1.425086981,
+    "longitude": 103.7621375
+  },
+  {
+    "": 6,
+    "code": "NS8",
+    "station_name": "Marsiling",
+    "latitude": 1.432521149,
+    "longitude": 103.7740746
+  },
+  {
+    "": 7,
+    "code": "NS9",
+    "station_name": "Woodlands",
+    "latitude": 1.43681963,
+    "longitude": 103.7860668
+  },
+  {
+    "": 8,
+    "code": "NS10",
+    "station_name": "Admiralty",
+    "latitude": 1.440588562,
+    "longitude": 103.8009905
+  },
+  {
+    "": 9,
+    "code": "NS11",
+    "station_name": "Sembawang",
+    "latitude": 1.449050822,
+    "longitude": 103.8200461
+  },
+  {
+    "": 10,
+    "code": "NS12",
+    "station_name": "Canberra",
+    "latitude": 1.443076641,
+    "longitude": 103.8297026
+  },
+  {
+    "": 11,
+    "code": "NS13",
+    "station_name": "Yishun",
+    "latitude": 1.429443085,
+    "longitude": 103.835005
+  },
+  {
+    "": 12,
+    "code": "NS14",
+    "station_name": "Khatib",
+    "latitude": 1.41738337,
+    "longitude": 103.8329799
+  },
+  {
+    "": 13,
+    "code": "NS15",
+    "station_name": "Yio Chu Kang",
+    "latitude": 1.381755871,
+    "longitude": 103.8449473
+  },
+  {
+    "": 14,
+    "code": "NS16",
+    "station_name": "Ang Mo Kio",
+    "latitude": 1.36993285,
+    "longitude": 103.8495581
+  },
+  {
+    "": 15,
+    "code": "NS17",
+    "station_name": "Bishan",
+    "latitude": 1.350838988,
+    "longitude": 103.848144
+  },
+  {
+    "": 16,
+    "code": "NS18",
+    "station_name": "Braddell",
+    "latitude": 1.340469001,
+    "longitude": 103.8467991
+  },
+  {
+    "": 17,
+    "code": "NS19",
+    "station_name": "Toa Payoh",
+    "latitude": 1.332629281,
+    "longitude": 103.8475022
+  },
+  {
+    "": 18,
+    "code": "NS20",
+    "station_name": "Novena",
+    "latitude": 1.320440791,
+    "longitude": 103.8438256
+  },
+  {
+    "": 19,
+    "code": "NS21",
+    "station_name": "Newton",
+    "latitude": 1.312318922,
+    "longitude": 103.8379846
+  },
+  {
+    "": 20,
+    "code": "NS22",
+    "station_name": "Orchard",
+    "latitude": 1.303980137,
+    "longitude": 103.8322452
+  },
+  {
+    "": 21,
+    "code": "NS23",
+    "station_name": "Somerset",
+    "latitude": 1.300264167,
+    "longitude": 103.8390858
+  },
+  {
+    "": 22,
+    "code": "NS24",
+    "station_name": "Dhoby Ghaut",
+    "latitude": 1.298701325,
+    "longitude": 103.8461137
+  },
+  {
+    "": 23,
+    "code": "NS25",
+    "station_name": "City Hall",
+    "latitude": 1.292936722,
+    "longitude": 103.8525856
+  },
+  {
+    "": 24,
+    "code": "NS26",
+    "station_name": "Raffles Place",
+    "latitude": 1.28412561,
+    "longitude": 103.8514617
+  },
+  {
+    "": 25,
+    "code": "NS27",
+    "station_name": "Marina Bay",
+    "latitude": 1.276410299,
+    "longitude": 103.8545955
+  },
+  {
+    "": 26,
+    "code": "NS28",
+    "station_name": "Marina South Pier",
+    "latitude": 1.271027036,
+    "longitude": 103.8624475
+  },
+  {
+    "": 27,
+    "code": "EW1",
+    "station_name": "Pasir Ris",
+    "latitude": 1.373043316,
+    "longitude": 103.9492845
+  },
+  {
+    "": 28,
+    "code": "EW2",
+    "station_name": "Tampines",
+    "latitude": 1.353301676,
+    "longitude": 103.9451446
+  },
+  {
+    "": 29,
+    "code": "EW3",
+    "station_name": "Simei",
+    "latitude": 1.343197079,
+    "longitude": 103.9533772
+  },
+  {
+    "": 30,
+    "code": "EW4",
+    "station_name": "Tanah Merah",
+    "latitude": 1.327187291,
+    "longitude": 103.9463486
+  },
+  {
+    "": 31,
+    "code": "EW5",
+    "station_name": "Bedok",
+    "latitude": 1.323979969,
+    "longitude": 103.9299845
+  },
+  {
+    "": 32,
+    "code": "EW6",
+    "station_name": "Kembangan",
+    "latitude": 1.321038134,
+    "longitude": 103.9129479
+  },
+  {
+    "": 33,
+    "code": "EW7",
+    "station_name": "Eunos",
+    "latitude": 1.319783549,
+    "longitude": 103.9032258
+  },
+  {
+    "": 34,
+    "code": "EW8",
+    "station_name": "Paya Lebar",
+    "latitude": 1.318111492,
+    "longitude": 103.8930608
+  },
+  {
+    "": 35,
+    "code": "EW9",
+    "station_name": "Aljunied",
+    "latitude": 1.316432612,
+    "longitude": 103.882906
+  },
+  {
+    "": 36,
+    "code": "EW10",
+    "station_name": "Kallang",
+    "latitude": 1.31148891,
+    "longitude": 103.8713865
+  },
+  {
+    "": 37,
+    "code": "EW11",
+    "station_name": "Lavender",
+    "latitude": 1.307377817,
+    "longitude": 103.8627676
+  },
+  {
+    "": 38,
+    "code": "EW12",
+    "station_name": "Bugis",
+    "latitude": 1.300465085,
+    "longitude": 103.8557067
+  },
+  {
+    "": 39,
+    "code": "EW13",
+    "station_name": "City Hall",
+    "latitude": 1.292936722,
+    "longitude": 103.8525856
+  },
+  {
+    "": 40,
+    "code": "EW14",
+    "station_name": "Raffles Place",
+    "latitude": 1.28412561,
+    "longitude": 103.8514617
+  },
+  {
+    "": 41,
+    "code": "EW15",
+    "station_name": "Tanjong Pagar",
+    "latitude": 1.276561317,
+    "longitude": 103.8457252
+  },
+  {
+    "": 42,
+    "code": "EW16",
+    "station_name": "Outram Park",
+    "latitude": 1.281405048,
+    "longitude": 103.839131
+  },
+  {
+    "": 43,
+    "code": "EW17",
+    "station_name": "Tiong Bahru",
+    "latitude": 1.286102536,
+    "longitude": 103.8274451
+  },
+  {
+    "": 44,
+    "code": "EW18",
+    "station_name": "Redhill",
+    "latitude": 1.289634534,
+    "longitude": 103.816741
+  },
+  {
+    "": 45,
+    "code": "EW19",
+    "station_name": "Queenstown",
+    "latitude": 1.294550852,
+    "longitude": 103.8060772
+  },
+  {
+    "": 46,
+    "code": "EW20",
+    "station_name": "Commonwealth",
+    "latitude": 1.302501999,
+    "longitude": 103.7982285
+  },
+  {
+    "": 47,
+    "code": "EW21",
+    "station_name": "Buona Vista",
+    "latitude": 1.307223708,
+    "longitude": 103.7902535
+  },
+  {
+    "": 48,
+    "code": "EW22",
+    "station_name": "Dover",
+    "latitude": 1.311405293,
+    "longitude": 103.7786378
+  },
+  {
+    "": 49,
+    "code": "EW23",
+    "station_name": "Clementi",
+    "latitude": 1.315116253,
+    "longitude": 103.7651915
+  },
+  {
+    "": 50,
+    "code": "EW24",
+    "station_name": "Jurong East",
+    "latitude": 1.333152816,
+    "longitude": 103.7422863
+  },
+  {
+    "": 51,
+    "code": "EW25",
+    "station_name": "Chinese Garden",
+    "latitude": 1.342352821,
+    "longitude": 103.7325967
+  },
+  {
+    "": 52,
+    "code": "EW26",
+    "station_name": "Lakeside",
+    "latitude": 1.344259115,
+    "longitude": 103.7209491
+  },
+  {
+    "": 53,
+    "code": "EW27",
+    "station_name": "Boon Lay",
+    "latitude": 1.338604055,
+    "longitude": 103.7060646
+  },
+  {
+    "": 54,
+    "code": "EW28",
+    "station_name": "Pioneer",
+    "latitude": 1.337587011,
+    "longitude": 103.6973216
+  },
+  {
+    "": 55,
+    "code": "EW29",
+    "station_name": "Joo Koon",
+    "latitude": 1.327717041,
+    "longitude": 103.678375
+  },
+  {
+    "": 56,
+    "code": "EW30",
+    "station_name": "Gul Circle",
+    "latitude": 1.319470901,
+    "longitude": 103.6605305
+  },
+  {
+    "": 57,
+    "code": "EW31",
+    "station_name": "Tuas Crescent",
+    "latitude": 1.321026956,
+    "longitude": 103.6490782
+  },
+  {
+    "": 58,
+    "code": "EW32",
+    "station_name": "Tuas West Road",
+    "latitude": 1.329985047,
+    "longitude": 103.6396166
+  },
+  {
+    "": 59,
+    "code": "EW33",
+    "station_name": "Tuas Link",
+    "latitude": 1.340882425,
+    "longitude": 103.6369914
+  },
+  {
+    "": 60,
+    "code": "CG1",
+    "station_name": "Expo",
+    "latitude": 1.334549778,
+    "longitude": 103.9615482
+  },
+  {
+    "": 61,
+    "code": "CG2",
+    "station_name": "Changi Airport",
+    "latitude": 1.357478974,
+    "longitude": 103.9878836
+  },
+  {
+    "": 62,
+    "code": "NE1",
+    "station_name": "HarbourFront",
+    "latitude": 1.265389384,
+    "longitude": 103.8215302
+  },
+  {
+    "": 63,
+    "code": "NE3",
+    "station_name": "Outram Park",
+    "latitude": 1.279720594,
+    "longitude": 103.8394399
+  },
+  {
+    "": 64,
+    "code": "NE4",
+    "station_name": "Chinatown",
+    "latitude": 1.284359593,
+    "longitude": 103.8434267
+  },
+  {
+    "": 65,
+    "code": "NE5",
+    "station_name": "Clarke Quay",
+    "latitude": 1.288386024,
+    "longitude": 103.8465552
+  },
+  {
+    "": 66,
+    "code": "NE6",
+    "station_name": "Dhoby Ghaut",
+    "latitude": 1.299704581,
+    "longitude": 103.8454885
+  },
+  {
+    "": 67,
+    "code": "NE7",
+    "station_name": "Little India",
+    "latitude": 1.306800197,
+    "longitude": 103.8496471
+  },
+  {
+    "": 68,
+    "code": "NE8",
+    "station_name": "Farrer Park",
+    "latitude": 1.311905573,
+    "longitude": 103.8534777
+  },
+  {
+    "": 69,
+    "code": "NE9",
+    "station_name": "Boon Keng",
+    "latitude": 1.319335709,
+    "longitude": 103.8615695
+  },
+  {
+    "": 70,
+    "code": "NE10",
+    "station_name": "Potong Pasir",
+    "latitude": 1.33137949,
+    "longitude": 103.8690557
+  },
+  {
+    "": 71,
+    "code": "NE11",
+    "station_name": "Woodleigh",
+    "latitude": 1.339190045,
+    "longitude": 103.8708183
+  },
+  {
+    "": 72,
+    "code": "NE12",
+    "station_name": "Serangoon",
+    "latitude": 1.349707881,
+    "longitude": 103.8735748
+  },
+  {
+    "": 73,
+    "code": "NE13",
+    "station_name": "Kovan",
+    "latitude": 1.360179171,
+    "longitude": 103.8850649
+  },
+  {
+    "": 74,
+    "code": "NE14",
+    "station_name": "Hougang",
+    "latitude": 1.371292266,
+    "longitude": 103.8923805
+  },
+  {
+    "": 75,
+    "code": "NE15",
+    "station_name": "Buangkok",
+    "latitude": 1.38287002,
+    "longitude": 103.8931226
+  },
+  {
+    "": 76,
+    "code": "NE16",
+    "station_name": "Sengkang",
+    "latitude": 1.391694626,
+    "longitude": 103.8954847
+  },
+  {
+    "": 77,
+    "code": "NE17",
+    "station_name": "Punggol",
+    "latitude": 1.404546537,
+    "longitude": 103.9020726
+  },
+  {
+    "": 78,
+    "code": "CC1",
+    "station_name": "Dhoby Ghaut",
+    "latitude": 1.298911644,
+    "longitude": 103.8462925
+  },
+  {
+    "": 79,
+    "code": "CC2",
+    "station_name": "Bras Basah",
+    "latitude": 1.296861686,
+    "longitude": 103.8506674
+  },
+  {
+    "": 80,
+    "code": "CC3",
+    "station_name": "Esplanade",
+    "latitude": 1.293657725,
+    "longitude": 103.8550812
+  },
+  {
+    "": 81,
+    "code": "CC4",
+    "station_name": "Promenade",
+    "latitude": 1.293997986,
+    "longitude": 103.86035
+  },
+  {
+    "": 82,
+    "code": "CC5",
+    "station_name": "Nicoll Highway",
+    "latitude": 1.299766847,
+    "longitude": 103.863637
+  },
+  {
+    "": 83,
+    "code": "CC6",
+    "station_name": "Stadium",
+    "latitude": 1.302812468,
+    "longitude": 103.8753377
+  },
+  {
+    "": 84,
+    "code": "CC7",
+    "station_name": "Mountbatten",
+    "latitude": 1.306201905,
+    "longitude": 103.8825281
+  },
+  {
+    "": 85,
+    "code": "CC8",
+    "station_name": "Dakota",
+    "latitude": 1.308547984,
+    "longitude": 103.8890647
+  },
+  {
+    "": 86,
+    "code": "CC9",
+    "station_name": "Paya Lebar",
+    "latitude": 1.317247385,
+    "longitude": 103.8922608
+  },
+  {
+    "": 87,
+    "code": "CC10",
+    "station_name": "MacPherson",
+    "latitude": 1.326077602,
+    "longitude": 103.8903913
+  },
+  {
+    "": 88,
+    "code": "CC11",
+    "station_name": "Tai Seng",
+    "latitude": 1.335141501,
+    "longitude": 103.8883893
+  },
+  {
+    "": 89,
+    "code": "CC12",
+    "station_name": "Bartley",
+    "latitude": 1.342501178,
+    "longitude": 103.8801779
+  },
+  {
+    "": 90,
+    "code": "CC13",
+    "station_name": "Serangoon",
+    "latitude": 1.350633615,
+    "longitude": 103.8727717
+  },
+  {
+    "": 91,
+    "code": "CC14",
+    "station_name": "Lorong Chuan",
+    "latitude": 1.351612171,
+    "longitude": 103.8641519
+  },
+  {
+    "": 92,
+    "code": "CC15",
+    "station_name": "Bishan",
+    "latitude": 1.351315801,
+    "longitude": 103.8491403
+  },
+  {
+    "": 93,
+    "code": "CC16",
+    "station_name": "Marymount",
+    "latitude": 1.348707263,
+    "longitude": 103.8394231
+  },
+  {
+    "": 94,
+    "code": "CC17",
+    "station_name": "Caldecott",
+    "latitude": 1.337674508,
+    "longitude": 103.8395298
+  },
+  {
+    "": 95,
+    "code": "CC19",
+    "station_name": "Botanic Gardens",
+    "latitude": 1.322113736,
+    "longitude": 103.8149845
+  },
+  {
+    "": 96,
+    "code": "CC20",
+    "station_name": "Farrer Road",
+    "latitude": 1.317439152,
+    "longitude": 103.8073792
+  },
+  {
+    "": 97,
+    "code": "CC21",
+    "station_name": "Holland Village",
+    "latitude": 1.312240296,
+    "longitude": 103.7963991
+  },
+  {
+    "": 98,
+    "code": "CC22",
+    "station_name": "Buona Vista",
+    "latitude": 1.306634504,
+    "longitude": 103.7907094
+  },
+  {
+    "": 99,
+    "code": "CC23",
+    "station_name": "one-north",
+    "latitude": 1.299759875,
+    "longitude": 103.7874575
+  },
+  {
+    "": 100,
+    "code": "CC24",
+    "station_name": "Kent Ridge",
+    "latitude": 1.293533499,
+    "longitude": 103.7845727
+  },
+  {
+    "": 101,
+    "code": "CC25",
+    "station_name": "Haw Par Villa",
+    "latitude": 1.282571358,
+    "longitude": 103.7817527
+  },
+  {
+    "": 102,
+    "code": "CC26",
+    "station_name": "Pasir Panjang",
+    "latitude": 1.276213522,
+    "longitude": 103.7913503
+  },
+  {
+    "": 103,
+    "code": "CC27",
+    "station_name": "Labrador Park",
+    "latitude": 1.272254177,
+    "longitude": 103.8026316
+  },
+  {
+    "": 104,
+    "code": "CC28",
+    "station_name": "Telok Blangah",
+    "latitude": 1.270706477,
+    "longitude": 103.8097616
+  },
+  {
+    "": 105,
+    "code": "CC29",
+    "station_name": "HarbourFront",
+    "latitude": 1.265389384,
+    "longitude": 103.8215302
+  },
+  {
+    "": 106,
+    "code": "CE1",
+    "station_name": "Bayfront",
+    "latitude": 1.281873789,
+    "longitude": 103.8590798
+  },
+  {
+    "": 107,
+    "code": "CE2",
+    "station_name": "Marina Bay",
+    "latitude": 1.276251464,
+    "longitude": 103.8554472
+  },
+  {
+    "": 108,
+    "code": "DT1",
+    "station_name": "Bukit Panjang",
+    "latitude": 1.379002116,
+    "longitude": 103.7615351
+  },
+  {
+    "": 109,
+    "code": "DT2",
+    "station_name": "Cashew",
+    "latitude": 1.369815449,
+    "longitude": 103.7644392
+  },
+  {
+    "": 110,
+    "code": "DT3",
+    "station_name": "Hillview",
+    "latitude": 1.362344868,
+    "longitude": 103.7674183
+  },
+  {
+    "": 111,
+    "code": "DT5",
+    "station_name": "Beauty World",
+    "latitude": 1.341223176,
+    "longitude": 103.7757943
+  },
+  {
+    "": 112,
+    "code": "DT6",
+    "station_name": "King Albert Park",
+    "latitude": 1.335661613,
+    "longitude": 103.7833991
+  },
+  {
+    "": 113,
+    "code": "DT7",
+    "station_name": "Sixth Avenue",
+    "latitude": 1.330857645,
+    "longitude": 103.7969068
+  },
+  {
+    "": 114,
+    "code": "DT8",
+    "station_name": "Tan Kah Kee",
+    "latitude": 1.325556235,
+    "longitude": 103.8077603
+  },
+  {
+    "": 115,
+    "code": "DT9",
+    "station_name": "Botanic Gardens",
+    "latitude": 1.322488071,
+    "longitude": 103.816014
+  },
+  {
+    "": 116,
+    "code": "DT10",
+    "station_name": "Stevens",
+    "latitude": 1.320065558,
+    "longitude": 103.8260244
+  },
+  {
+    "": 117,
+    "code": "DT11",
+    "station_name": "Newton",
+    "latitude": 1.313992863,
+    "longitude": 103.8377146
+  },
+  {
+    "": 118,
+    "code": "DT12",
+    "station_name": "Little India",
+    "latitude": 1.307018268,
+    "longitude": 103.8486609
+  },
+  {
+    "": 119,
+    "code": "DT13",
+    "station_name": "Rochor",
+    "latitude": 1.303852185,
+    "longitude": 103.8527694
+  },
+  {
+    "": 120,
+    "code": "DT14",
+    "station_name": "Bugis",
+    "latitude": 1.299313503,
+    "longitude": 103.857126
+  },
+  {
+    "": 121,
+    "code": "DT15",
+    "station_name": "Promenade",
+    "latitude": 1.292891754,
+    "longitude": 103.8608918
+  },
+  {
+    "": 122,
+    "code": "DT16",
+    "station_name": "Bayfront",
+    "latitude": 1.281873789,
+    "longitude": 103.8590798
+  },
+  {
+    "": 123,
+    "code": "DT17",
+    "station_name": "Downtown",
+    "latitude": 1.279446382,
+    "longitude": 103.8528408
+  },
+  {
+    "": 124,
+    "code": "DT18",
+    "station_name": "Telok Ayer",
+    "latitude": 1.282068948,
+    "longitude": 103.8486488
+  },
+  {
+    "": 125,
+    "code": "DT19",
+    "station_name": "Chinatown",
+    "latitude": 1.284223919,
+    "longitude": 103.8451438
+  },
+  {
+    "": 126,
+    "code": "DT20",
+    "station_name": "Fort Canning",
+    "latitude": 1.292481948,
+    "longitude": 103.8443314
+  },
+  {
+    "": 127,
+    "code": "DT21",
+    "station_name": "Bencoolen",
+    "latitude": 1.298918434,
+    "longitude": 103.8503538
+  },
+  {
+    "": 128,
+    "code": "DT22",
+    "station_name": "Jalan Besar",
+    "latitude": 1.305171388,
+    "longitude": 103.8552957
+  },
+  {
+    "": 129,
+    "code": "DT23",
+    "station_name": "Bendemeer",
+    "latitude": 1.313672528,
+    "longitude": 103.8629776
+  },
+  {
+    "": 130,
+    "code": "DT24",
+    "station_name": "Geylang Bahru",
+    "latitude": 1.321301102,
+    "longitude": 103.8716226
+  },
+  {
+    "": 131,
+    "code": "DT25",
+    "station_name": "Mattar",
+    "latitude": 1.326876715,
+    "longitude": 103.8832475
+  },
+  {
+    "": 132,
+    "code": "DT26",
+    "station_name": "MacPherson",
+    "latitude": 1.326150245,
+    "longitude": 103.8892986
+  },
+  {
+    "": 133,
+    "code": "DT27",
+    "station_name": "Ubi",
+    "latitude": 1.32997426,
+    "longitude": 103.8992267
+  },
+  {
+    "": 134,
+    "code": "DT28",
+    "station_name": "Kaki Bukit",
+    "latitude": 1.33496736,
+    "longitude": 103.9084593
+  },
+  {
+    "": 135,
+    "code": "DT29",
+    "station_name": "Bedok North",
+    "latitude": 1.334742117,
+    "longitude": 103.9179783
+  },
+  {
+    "": 136,
+    "code": "DT30",
+    "station_name": "Bedok Reservoir",
+    "latitude": 1.33660783,
+    "longitude": 103.9322346
+  },
+  {
+    "": 137,
+    "code": "DT31",
+    "station_name": "Tampines West",
+    "latitude": 1.345515306,
+    "longitude": 103.938437
+  },
+  {
+    "": 138,
+    "code": "DT32",
+    "station_name": "Tampines",
+    "latitude": 1.355150411,
+    "longitude": 103.9430099
+  },
+  {
+    "": 139,
+    "code": "DT33",
+    "station_name": "Tampines East",
+    "latitude": 1.356191483,
+    "longitude": 103.9546345
+  },
+  {
+    "": 140,
+    "code": "DT34",
+    "station_name": "Upper Changi",
+    "latitude": 1.341739774,
+    "longitude": 103.9614728
+  },
+  {
+    "": 141,
+    "code": "DT35",
+    "station_name": "Expo",
+    "latitude": 1.335382526,
+    "longitude": 103.9623747
+  },
+  {
+    "": 142,
+    "code": "TE1",
+    "station_name": "Woodlands North",
+    "latitude": 1.448292453,
+    "longitude": 103.7856927
+  },
+  {
+    "": 143,
+    "code": "TE2",
+    "station_name": "Woodlands",
+    "latitude": 1.436057617,
+    "longitude": 103.7879388
+  },
+  {
+    "": 144,
+    "code": "TE3",
+    "station_name": "Woodlands South",
+    "latitude": 1.427396053,
+    "longitude": 103.7932643
+  },
+  {
+    "": 145,
+    "code": "TE4",
+    "station_name": "Springleaf",
+    "latitude": 1.397581061,
+    "longitude": 103.8178569
+  },
+  {
+    "": 146,
+    "code": "TE5",
+    "station_name": "Lentor",
+    "latitude": 1.38550658,
+    "longitude": 103.8357438
+  },
+  {
+    "": 147,
+    "code": "TE6",
+    "station_name": "Mayflower",
+    "latitude": 1.371463188,
+    "longitude": 103.8365678
+  },
+  {
+    "": 148,
+    "code": "TE7",
+    "station_name": "Bright Hill",
+    "latitude": 1.363283185,
+    "longitude": 103.8328936
+  },
+  {
+    "": 149,
+    "code": "TE8",
+    "station_name": "Upper Thomson",
+    "latitude": 1.354416434,
+    "longitude": 103.8328985
+  },
+  {
+    "": 150,
+    "code": "TE9",
+    "station_name": "Caldecott",
+    "latitude": 1.337245613,
+    "longitude": 103.8401618
+  },
+  {
+    "": 151,
+    "code": "TE11",
+    "station_name": "Stevens",
+    "latitude": 1.319334374,
+    "longitude": 103.825567
+  },
+  {
+    "": 152,
+    "code": "TE12",
+    "station_name": "Napier",
+    "latitude": 1.306782234,
+    "longitude": 103.8189568
+  },
+  {
+    "": 153,
+    "code": "TE13",
+    "station_name": "Orchard Boulevard",
+    "latitude": 1.302422248,
+    "longitude": 103.8238685
+  },
+  {
+    "": 154,
+    "code": "TE14",
+    "station_name": "Orchard",
+    "latitude": 1.303044263,
+    "longitude": 103.831375
+  },
+  {
+    "": 155,
+    "code": "TE15",
+    "station_name": "Great World",
+    "latitude": 1.293948162,
+    "longitude": 103.8337208
+  },
+  {
+    "": 156,
+    "code": "TE16",
+    "station_name": "Havelock",
+    "latitude": 1.28850524,
+    "longitude": 103.8335858
+  },
+  {
+    "": 157,
+    "code": "TE17",
+    "station_name": "Outram Park",
+    "latitude": 1.281329644,
+    "longitude": 103.8391376
+  },
+  {
+    "": 158,
+    "code": "TE18",
+    "station_name": "Maxwell",
+    "latitude": 1.280533298,
+    "longitude": 103.8438837
+  },
+  {
+    "": 159,
+    "code": "TE19",
+    "station_name": "Shenton Way",
+    "latitude": 1.277716828,
+    "longitude": 103.8503676
+  },
+  {
+    "": 160,
+    "code": "TE20",
+    "station_name": "Marina Bay",
+    "latitude": 1.274741732,
+    "longitude": 103.8553092
+  },
+  {
+    "": 161,
+    "code": "TE22",
+    "station_name": "Gardens by the Bay",
+    "latitude": 1.278487259,
+    "longitude": 103.8674547
+  },
+  {
+    "": 162,
+    "code": "TE23",
+    "station_name": "Tanjong Rhu",
+    "latitude": 1.297265079,
+    "longitude": 103.8734533
+  },
+  {
+    "": 163,
+    "code": "TE24",
+    "station_name": "Katong Park",
+    "latitude": 1.297831478,
+    "longitude": 103.8861789
+  },
+  {
+    "": 164,
+    "code": "TE25",
+    "station_name": "Tanjong Katong",
+    "latitude": 1.299319258,
+    "longitude": 103.8973687
+  },
+  {
+    "": 165,
+    "code": "TE26",
+    "station_name": "Marine Parade",
+    "latitude": 1.302611635,
+    "longitude": 103.9049831
+  },
+  {
+    "": 166,
+    "code": "TE27",
+    "station_name": "Marine Terrace",
+    "latitude": 1.306665103,
+    "longitude": 103.9151067
+  },
+  {
+    "": 167,
+    "code": "TE28",
+    "station_name": "Siglap",
+    "latitude": 1.310008694,
+    "longitude": 103.9300258
+  },
+  {
+    "": 168,
+    "code": "TE29",
+    "station_name": "Bayshore",
+    "latitude": 1.313122483,
+    "longitude": 103.9423098
+  },
+  {
+    "": 169,
+    "code": "NE18",
+    "station_name": "Punggol Coast",
+    "latitude": 1.414927334,
+    "longitude": 103.9101664
+  },
+  {
+    "": 170,
+    "code": "DT4",
+    "station_name": "Hume",
+    "latitude": 1.355007,
+    "longitude": 103.7687
+  },
+  {
+    "": 171,
+    "code": "TE30",
+    "station_name": "Bedok South",
+    "latitude": 1.316989,
+    "longitude": 103.949322
+  },
+  {
+    "": 172,
+    "code": "DT36",
+    "station_name": "Xilin",
+    "latitude": 1.329095,
+    "longitude": 103.964498
+  },
+  {
+    "": 173,
+    "code": "TE31/DT37",
+    "station_name": "Sungei Bedok",
+    "latitude": 1.320147,
+    "longitude": 103.957139
+  },
+  {
+    "": 174,
+    "code": "CR6",
+    "station_name": "Tampines North",
+    "latitude": 1.369331,
+    "longitude": 103.938421
+  },
+  {
+  "station_name": "Keppel",
+  "latitude": 1.2735,
+  "longitude": 103.8339
+},
+{
+  "station_name": "Cantonment",
+  "latitude": 1.2721,
+  "longitude": 103.8357
+}
+
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "": 0,
+    "code": "CR2",
+    "station_name": "Aviation Park",
+    "latitude": 1.369943,
+    "longitude": 104.0044
+  },
+  {
+    "": 1,
+    "code": "CR3",
+    "station_name": "Loyang",
+    "latitude": 1.371385,
+    "longitude": 103.972191
+  },
+  {
+    "": 2,
+    "code": "CR4",
+    "station_name": "Pasir Ris East",
+    "latitude": 1.366289,
+    "longitude": 103.961717
+  },
+  {
+    "": 3,
+    "code": "CR5",
+    "station_name": "Pasir Ris",
+    "latitude": 1.373043316,
+    "longitude": 103.9492845
+  },
+  {
+    "": 4,
+    "code": "TE31/DT37",
+    "station_name": "Sungei Bedok",
+    "latitude": 1.320147,
+    "longitude": 103.957139
+  },
+  {
+    "": 5,
+    "code": "EW4",
+    "station_name": "Tanah Merah",
+    "latitude": 1.327187291,
+    "longitude": 103.9463486
+  },
+  {
+    "": 6,
+    "code": "EW2",
+    "station_name": "Tampines",
+    "latitude": 1.355150411,
+    "longitude": 103.9430099
+  },
+  {
+    "": 7,
+    "code": "CG1",
+    "station_name": "Expo",
+    "latitude": 1.334549778,
+    "longitude": 103.9615482
+  },
+  {
+    "": 8,
+    "code": "CG2",
+    "station_name": "Changi Aiport",
+    "latitude": 1.357478974,
+    "longitude": 103.9878836
+  },
+  {
+    "": 9,
+    "code": "CR6",
+    "station_name": "Tampines North",
+    "latitude": 1.369331,
+    "longitude": 103.938421
+  }
+]
