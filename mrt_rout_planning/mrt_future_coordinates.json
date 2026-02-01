@@ -68,5 +68,13 @@
     "station_name": "Tampines North",
     "latitude": 1.369331,
     "longitude": 103.938421
-  }
+  },
+  {
+  "": 2,
+  "code": "TE32/CR1",
+  "station_name": "Changi Terminal 5",
+  "latitude": 1.361000,
+  "longitude": 103.990000
+}
+
 ]

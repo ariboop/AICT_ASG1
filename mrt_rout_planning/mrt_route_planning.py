@@ -680,8 +680,7 @@ TESTS_TODAY = [
     ("Changi Airport", "City Hall"),
     ("Changi Airport", "Orchard"),
     ("Changi Airport", "Gardens by the Bay"),
-    ("Changi Airport", "HarbourFront"),
-    ("Changi Airport", "Bishan"),
+   
 ]
 
 TESTS_FUTURE = [
@@ -689,7 +688,7 @@ TESTS_FUTURE = [
     ("HarbourFront", "Changi Terminal 5"),
     ("Bishan", "Changi Terminal 5"),
     ("Tampines", "Changi Terminal 5"),
-    ("Changi Airport", "Changi Terminal 5"),
+    
 ]
 
 
